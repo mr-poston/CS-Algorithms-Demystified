@@ -1,0 +1,49 @@
+---
+# Only the main Sass file needs front matter (the dashes are required)
+---
+
+// ----------------------------------------------------------------------
+// RHS Computer Science Brand Colors
+// ----------------------------------------------------------------------
+
+// Overriding the default Cayman theme variables with the RHS brand palette!
+
+// --- The Header Gradient ---
+// Blending Royal Purple (#3B006A) into Midnight Blue (#1A1A40)
+$header-bg-color: #3B006A;
+$header-bg-color-secondary: #1A1A40;
+
+// --- Header Text ---
+// Using Soft White (#F5F5F5) for the main text and Metallic Gold (#D4AF37) for highlights
+$header-heading-color: #F5F5F5;
+$header-body-color: #E6BE8A; // Champagne Gold for softer readability in the subtext
+
+// --- Body Colors ---
+// Soft White background for clean readability, Deep Black (#0A0A0A) for text
+$body-bg-color: #F5F5F5;
+$body-text-color: #0A0A0A;
+$body-heading-color: #3B006A; // Royal Purple for your H1/H2 tags in the text
+
+// --- Links & Accents ---
+// Using Electric Blue for links to make them pop!
+$body-link-color: #007BFF;
+$blockquote-text-color: #2E2E2E; // Charcoal Gray for quotes and notes
+
+// ----------------------------------------------------------------------
+// Import the base Cayman theme AFTER defining our custom variables
+// ----------------------------------------------------------------------
+@import "{{ site.theme }}";
+
+// --- Custom Overrides ---
+// Making the "View on GitHub" buttons Metallic Gold
+.btn {
+  color: #0A0A0A;
+  background-color: #D4AF37;
+  border-color: #D4AF37;
+  
+  &:hover {
+    color: #F5F5F5;
+    background-color: #3B006A;
+    border-color: #3B006A;
+  }
+}
