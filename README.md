@@ -22,7 +22,7 @@ We’ve organized the algorithms by category so you can find exactly what you ne
 
 1.  **Pick a Category:** Browse the folders above to find the algorithm you want to learn.
 2.  **Read the Readme:** Each algorithm folder has its own mini-README explaining the concept with a real-world analogy.
-3.  **Run the Code:** Open the source code files (e.g., `.java`, `.py`) in your favorite IDE. Play around with it, change the variables, and break things—that's the best way to learn!
+3.  **Run the Code:** Open the source code files (e.g., `.java`) in your favorite IDE. Play around with it, change the variables, and break things—that's the best way to learn!
 
 ---
 
