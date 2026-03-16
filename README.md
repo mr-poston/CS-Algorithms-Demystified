@@ -1,8 +1,10 @@
-# 🚀 CS-Algorithms-Demystified
+# 🦅 RHS Algorithms Demystified
 
-Welcome to **Algorithms Demystified**! This repository is built by high school computer science students, *for* high school computer science students. 
+**Code. Create. Contribute.**
 
-Algorithms can seem intimidating, but they are really just step-by-step recipes for solving problems. This repo breaks down the most important foundational algorithms into bite-sized, easy-to-understand pieces.
+Welcome to **Algorithms Demystified**! I built this repository as a starting point for our Richardson High School (RHS) computer science classes. It is designed *for* you, but the ultimate goal is for it to be built *by* you! 
+
+Algorithms can seem intimidating, but they are really just step-by-step recipes for solving problems. This repo breaks down the most important foundational algorithms into bite-sized, easy-to-understand pieces to help you master the code, create innovative solutions, and contribute to the future of technology.
 
 ---
 
@@ -47,5 +49,35 @@ Got a better analogy? Found a bug? Wrote the algorithm in a different programmin
 3.  Commit your changes (`git commit -m 'Add some AmazingAlgorithm'`).
 4.  Push to the branch (`git push origin feature/AmazingAlgorithm`).
 5.  Open a Pull Request.
+
+## 🐣 First-Time Contributors (Start Here!)
+
+If you have never contributed to an open-source project on GitHub before, this is the perfect place to start! Learning how to collaborate using Git is one of the most important real-world skills you will learn as an RHS Eagle.
+
+Don't worry about breaking anything—that is the beauty of version control! Just follow these steps:
+
+1. **Fork the Repository:** Click the "Fork" button at the top right of this page. This makes a personal copy of the entire project on your own GitHub account.
+2. **Clone Your Fork:** Download your copy to your local computer so you can work on it in your IDE.
+3. **Create a Branch:** Create a new branch for your specific change (e.g., `git checkout -b feature/PythonBinarySearch`).
+4. **Make Your Edits:** Write your code, add your comments, or fix that typo!
+5. **Commit & Push:** Save your changes and push them back up to your GitHub account.
+6. **Open a Pull Request (PR):** Come back to this main RHS page and click "New Pull Request." This sends your changes to the teacher for review!
+
+---
+
+## 🏆 Earn Class Credit (The Bounty Board)
+
+**Code. Create. Contribute.** We want to reward you for actively contributing to our community's knowledge base! When you submit a Pull Request, you can earn extra credit or homework passes depending on the size of your contribution. 
+
+*(Note: Your PR must be reviewed and successfully merged into the main branch to earn the reward!)*
+
+| Contribution Type | Example | Reward Tier |
+| :--- | :--- | :--- |
+| **The "Syntax Fixer"** | Fixing a typo in a README, correcting grammar, or fixing broken links. | 5 Extra Credit Points |
+| **The "Translator"** | Taking an existing Java algorithm and adding a Python or C++ version in the same folder. | 10 Extra Credit Points |
+| **The "Documentarian"** | Rewriting a confusing explanation or coming up with a brilliant new "Real-World Analogy." | 15 Extra Credit Points |
+| **The "Architect"** | Adding a completely new, foundational algorithm with full code and a standard formatting README. | 1 Homework Pass |
+
+**To claim your credit:** When you open your Pull Request, simply add a comment tagging your teacher and stating which "Bounty" you are claiming!
 
 Happy coding! 💻✨
