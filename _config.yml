@@ -1,1 +1,25 @@
+# ----------------------------------------------------------------------
+# RHS Computer Science - Algorithms Demystified Configuration
+# ----------------------------------------------------------------------
+
+# Site Settings
+title: Algorithms Demystified
+description: >-
+  Code. Create. Contribute. Empowering RHS Eagles to master the code, 
+  create innovative solutions, and contribute to the future of technology.
+author: RHS Computer Science
+
+# Theme Settings
 theme: jekyll-theme-cayman
+
+# GitHub Settings (Helps the theme generate the "View on GitHub" buttons)
+repository: mr-poston/CS-Algorithms-Demystified
+
+# Build Settings (Excludes unnecessary files from being published)
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfile
+  - gemfile.lock
+  - node_modules/
+  - vendor/
