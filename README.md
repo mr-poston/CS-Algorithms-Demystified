@@ -10,11 +10,11 @@ Algorithms can seem intimidating, but they are really just step-by-step recipes 
 
 We’ve organized the algorithms by category so you can find exactly what you need. Each folder contains the code, line-by-line comments, and a simple explanation of how it works.
 
-* **🔍 1. Searching:** Finding what you need fast (Linear Search, Binary Search).
-* **🗂️ 2. Sorting:** Putting things in order (Bubble, Selection, Insertion, Merge Sort).
-* **🔁 3. Recursion & Math:** Functions that call themselves (Fibonacci, Factorials, Euclidean Algorithm).
-* **🗺️ 4. Graphs & Grids:** Pathfinding and maze solving (Breadth-First Search, Depth-First Search).
-* **🔐 5. Strings & Crypto:** Puzzles and encryption (Caesar Cipher, Palindromes).
+* **🔍 1. Searching:** Finding what you need fast ([Linear Search](1_Searching/1_LinearSearch/README.md), [Binary Search](1_Searching/2_BinarySearch/README.md)).
+* **🗂️ 2. Sorting:** Putting things in order ([Bubble](2_Sorting/1_BubbleSort/README.md), [Selection](2_Sorting/2_SelectionSort/README.md), [Insertion](2_Sorting/3_InsertionSort/README.md), [Merge Sort](2_Sorting/4_MergeSort/README.md)).
+* **🔁 3. Recursion & Math:** Functions that call themselves ([Fibonacci](3_RecursionAndMath/1_FibonacciSequence/README.md), [Factorials](3_RecursionAndMath/3_Factorials/README.md), [Euclidean Algorithm](3_RecursionAndMath/2_EuclideanAlgorithm/README.md)).
+* **🗺️ 4. Graphs & Grids:** Pathfinding and maze solving ([Breadth-First Search](4_GraphsAndGrids/Breadth-First_Search/README.md), [Depth-First Search](4_GraphsAndGrids/Depth-First_Search/README.md)).
+* **🔐 5. Strings & Crypto:** Puzzles and encryption ([Caesar Cipher](5_StringsAndCrypto/CaesarCipher/README.md), [Palindromes](5_StringsAndCrypto/PalindromeChecker/README.md)).
 
 ---
 
