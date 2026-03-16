@@ -13,7 +13,7 @@ We’ve organized the algorithms by category so you can find exactly what you ne
 * **🔍 1. Searching:** Finding what you need fast (Linear Search, Binary Search).
 * **🗂️ 2. Sorting:** Putting things in order (Bubble, Selection, Insertion, Merge Sort).
 * **🔁 3. Recursion & Math:** Functions that call themselves (Fibonacci, Factorials, Euclidean Algorithm).
-* **🗺️ 4. Graphs & Grids:** Pathfinding and maze solving (Breadth-First Search, Depth-First Search).
+* **🗺️ 4. Trees, Graphs, & Grids:** Pathfinding and maze solving (Breadth-First Search, Depth-First Search).
 * **🔐 5. Strings & Crypto:** Puzzles and encryption (Caesar Cipher, Palindromes).
 
 ---
